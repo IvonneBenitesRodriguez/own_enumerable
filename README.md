@@ -22,7 +22,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<!-- <details>
+<details>
 <summary>Ruby</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/es/">Ruby</a></li>
