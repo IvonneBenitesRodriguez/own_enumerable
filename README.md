@@ -4,7 +4,9 @@
 - [📖 \[own\_enumerable\] ](#-own_enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-    - [Setup](#setup)
+    - [🌸 Key Features ](#-key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -59,7 +61,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com/IvonneBenitesRodriguez/decode_morse_message.git
+  git clone git@github.com/IvonneBenitesRodriguez/own_enumerable.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,7 +91,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add a feature to encode text to morse code]**
+- [ ] **[Add more Ruby functionalities]**
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
